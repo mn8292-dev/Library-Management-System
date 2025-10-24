@@ -13,5 +13,3 @@ This is a basic command-line application in Java for managing a library's book c
 
 1.  **Compile:** `javac LibraryManagementSystem.java`
 2.  **Run:** `java LibraryManagementSystem`
-
-The program starts with a simple interactive menu (1-5) to manage the library.
